@@ -1,3 +1,4 @@
+IPV6_TV
 CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/hls27.m3u8
 CCTV-1综合高清,http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
